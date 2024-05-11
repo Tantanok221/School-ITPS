@@ -1,4 +1,4 @@
-Timestamp,What is your age?,What is your race?,What is your gender?,"On average, how many hours per day do you spend on social media platforms?   ","What activities do you typically engage in while using social media (example: scrolling through the feed, messaging friends, watching videos)?  ",How often do you catch yourself engaging in binge scrolling behavior on social media?   ,Do you spend your time on social media before sleeping?,"   If yes, do you think that social media affects your sleeping schedule?   ","Do you feel your social media usage has increased, decreased, or remained the same over the past year",Have you ever felt that your social media usage interferes with your daily activities or responsibilities?  ,Have you ever tried to reduce or control your social media usage due to binge scrolling behavior?  ,Do you think binge scrolling on social media has had a negative impact on your productivity or mental well-being  
+Timestamp,age,race,gender,hour,activities,bingeScroll,beforeSleep,affectSleep,usage,interferes,control,affectProductivity
 5/3/2024 17:51:19,17,Chinese,Boy,6,scrolling through the feed,Every Day,Yes,Yes,Increased,Yes,Yes,Yes
 5/4/2024 12:14:53,17,Chinese,Boy,5,watching videos & reels,Sometimes,Yes,Yes,Remain the same,Maybe,Yes,Yes
 5/9/2024 10:26:40,17,Chinese,Boy,1,All of the above,Rarely,Yes,Yes,Decreased,Maybe,No,No
@@ -15,7 +15,7 @@ Timestamp,What is your age?,What is your race?,What is your gender?,"On average,
 5/3/2024 16:36:11,19,Chinese,Boy,10,watching videos & reels,Every Day,Yes,Yes,Increased,Yes,Yes,Yes
 5/3/2024 17:21:16,19,Chinese,Girl,10,watching videos & reels,Every Day,Yes,Yes,Increased,Maybe,Yes,Yes
 5/3/2024 17:31:33,19,Chinese,Boy,9,All of the above,Every Day,Yes,No,Increased,Maybe,Yes,No
-5/3/2024 17:43:44,19,Chinese,Boy,2,All of the above ,Every Day,Yes,Yes,Remain the same,Yes,No,No
+5/3/2024 17:43:44,19,Chinese,Boy,2,All of the above,Every Day,Yes,Yes,Remain the same,Yes,No,No
 5/3/2024 17:45:55,19,Malay,Boy,8,All of the above,Rarely,Yes,Yes,Increased,Yes,Yes,Yes
 5/3/2024 17:53:07,19,Chinese,Boy,4,messaging friend,Often,Yes,No,Increased,Yes,Yes,Yes
 5/3/2024 18:05:04,19,Chinese,Boy,6,watching videos & reels,Never,Yes,No,Remain the same,No,No,Yes
